@@ -119,12 +119,8 @@ nav ul li a:hover {
   transition: 0.1s ease-in;
 }
 #menuBtn {
-  /* background-image: url("../assets/images/menu.png"); */
-  background-size: 70% 70%;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   position: fixed;
   right: 65px;
   top: 35px;
